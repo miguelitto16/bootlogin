@@ -68,10 +68,10 @@
         <div class="login-form">
             <h1>BEM VINDO</h1>
             <form>
-                <label for="username">NOME</label>
-                <input type="text" id="username" name="username" placeholder="Enter your username">
-                <label for="password">Password</label>
-                <input type="password" id="password" name="password" placeholder="Enter your password">
+                <label for="username">EMAIL</label>
+                <input type="text" id="username" name="username" placeholder="Entre com seu EMAIL">
+                <label for="password">SENHA</label>
+                <input type="password" id="password" name="password" placeholder="Entre com sua SENHA">
                 <button type="submit">SENHA</button>
             </form>
         </div>
