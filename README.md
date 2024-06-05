@@ -1,8 +1,8 @@
-# README do Projetão
+# README do Projetão👌
 
 Este é o README para o **Projetão**, um conjunto de páginas web simples para criar uma página inicial ,um formulário de login e um formulário de cadastro.
 
-## Conteúdo do Projetão
+## Conteúdo do Projetão🍆
 
 O projeto consiste em três páginas HTML:
 
@@ -10,13 +10,13 @@ O projeto consiste em três páginas HTML:
 2. **login.html**:Uma página de login com um formulário para inserir o email e a senha.
 3. **cadastro.html**:Uma página de cadastro com um formulário para inserir o email e a senha.
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas🥵
 
 - HTML5
 - CSS
 - Bootstrap 5.0.2
 
-## Autor
+## Autor🤠
 
 Este projeto foi criado por [Miguel](https://github.com/miguelitto16).
 
