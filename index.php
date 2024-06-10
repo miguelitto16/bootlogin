@@ -12,7 +12,6 @@
 
     
 
-    <!-- Bootstrap core CSS -->
 <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <style>
@@ -32,7 +31,6 @@
     </style>
 
     
-    <!-- Custom styles for this template -->
     <link href="cover.css" rel="stylesheet">
   </head>
   <body class="d-flex h-100 text-center text-white bg-dark">

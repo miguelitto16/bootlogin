@@ -7,7 +7,7 @@
     <style>
         body {
             font-family: sans-serif;
-            background-image: url("login-bg.jpg"); /* Replace with your background image URL */
+            background-image: url("login-bg.jpg"); 
             background-size: cover;
             background-position: center;
             height: 100vh;
