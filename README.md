@@ -9,7 +9,7 @@ O projeto consiste em três páginas HTML:
 1. **index.html**:Uma página simples com um layout elegante e um botão de "Saber mais".
 2. **login.html**:Uma página de login com um formulário para inserir o email e a senha.
 3. **cadastro.html**:Uma página de cadastro com um formulário para inserir o email e a senha.
-
+4. **@Miguel**:Um botão que é direcionado para o meu Linkedin.
 ## Tecnologias Utilizadas🥵
 
 - HTML5
